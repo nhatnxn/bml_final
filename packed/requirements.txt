@@ -1,0 +1,5 @@
+pandas
+requests
+pyvi
+streamlit
+scikit-learn==0.22.1
